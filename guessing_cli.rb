@@ -1,4 +1,3 @@
-# puts rand(1..6)
 def help
   puts "You can input any of the following commands:
   - help: Prints out a list of commands
